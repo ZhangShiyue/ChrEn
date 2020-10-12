@@ -39,7 +39,7 @@ python scripts/SMT.py --model chren --output_dir chren --dev_file out_dev --test
 
 #### NMT
 
-prepare in-domain and out-of-domain En-Chr and Chr-En experimental data; vocabulary with minimun frequency = 0, 5, 10
+prepare in-domain and out-of-domain En-Chr and Chr-En experimental data; vocabulary with minimum frequency = 0, 5, 10
 ```
 python scripts/NMT/prepare.py --mode prepare --min_freq 0  
 python scripts/NMT/prepare.py --mode prepare --min_freq 5 

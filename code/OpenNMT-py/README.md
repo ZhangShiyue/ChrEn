@@ -3,7 +3,7 @@
 * Always save the best checkpoint to model_step_0.pt, and selection is based on accuracy on development set;
 * Only save the best and the last checkpoints by setting "--save_checkpoint_steps 0";
 * Add BERT: See additional parameters "--bert_model", "--bert_layers", "--bert_input", 
-"--bert_output", "--bert_attn" in opts.py.
+"--bert_output", "--bert_attn" in onmt/opts.py.
 
 # OpenNMT-py: Open-Source Neural Machine Translation
 
