@@ -16,3 +16,12 @@
      |__ chr  --> Cherokee monolingual data (from monolingual_data.xlsx)
      |__ en5000, en10000, en20000, en50000, en100000  --> English monolingual data (from News Crawl 2017)
 ```
+
+## Disclaimer
+
+The copyright of the data belongs to original book/article authors or translators (hence, used for research purpose).
+
+## Acknowledgement
+
+We thank the Kituwah Preservation and Education Program (KPEP), the Eastern Band of Chero- kee Indians, 
+and the Cherokee Nation.
