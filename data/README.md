@@ -19,7 +19,8 @@
 
 ## Disclaimer
 
-The copyright of the data belongs to original book/article authors or translators (hence, used for research purpose).
+The copyright of the data belongs to original book/article authors or translators (hence, used for research purpose; 
+and please contact Dr. Benjamin Frey for other copyright questions).
 
 ## Acknowledgement
 
