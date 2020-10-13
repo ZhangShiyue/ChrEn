@@ -23,5 +23,5 @@ The copyright of the data belongs to original book/article authors or translator
 
 ## Acknowledgement
 
-We thank the Kituwah Preservation and Education Program (KPEP), the Eastern Band of Chero- kee Indians, 
+We thank the Kituwah Preservation and Education Program (KPEP), the Eastern Band of Cherokee Indians, 
 and the Cherokee Nation.
