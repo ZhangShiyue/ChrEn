@@ -1,5 +1,7 @@
 # ChrEn (EMNLP 2020)
 
+[ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ](https://en.wikipedia.org/wiki/Cherokee_language) - English
+
 This repository contains the data/code/demo for the following paper:
 
 [ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization](http://arxiv.org/abs/2010.04791)
