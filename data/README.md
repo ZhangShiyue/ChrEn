@@ -15,6 +15,10 @@
 |__ monolingual/  --> Cherokee and English monolingual data
      |__ chr  --> Cherokee monolingual data (from monolingual_data.xlsx)
      |__ en5000, en10000, en20000, en50000, en100000  --> English monolingual data (from News Crawl 2017)
+|__ cherokee_old_testament/ --> newly added parallel data from Cherokee Old Testament (01/11/2021, pending to be verified by Cherokee speaker)
+     |__ Old_Testament.xlsx 
+     |__ Old_Testament.chr
+     |__ Old_Testament.en
 ```
 
 ## Disclaimer
