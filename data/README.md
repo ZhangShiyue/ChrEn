@@ -19,7 +19,14 @@
      |__ Old_Testament.xlsx 
      |__ Old_Testament.chr
      |__ Old_Testament.en
+|__ demo --> the data we used for ChrEnTranslate Demo that inlcudes all data in parallel/ and cherokee_old_testament/ plus two-round expert feedback and Cherokee English Dictionary (CED) data; we mix them and resplit.
+     |__ train.true.en train.true.chr  --> training set
+     |__ dev.true.en dev.true.chr   --> development set 
+     |__ raw_dev.en raw_dev.chr   --> untokenized development set data used for evaluation 
 ```
+
+Note that here is our [ChrEnTranslate Demo](https://github.com/ZhangShiyue/ChrEnTranslate). 
+We obtain the Cherokee English Dictionary data from [here](https://github.com/CherokeeLanguage/CherokeeEnglishCorpus/blob/master/corpus.aligned/chr_en/ced.en).
 
 ## Disclaimer
 
@@ -28,5 +35,5 @@ and please contact Dr. Benjamin Frey for other copyright questions).
 
 ## Acknowledgement
 
-We thank the Kituwah Preservation and Education Program (KPEP), the Eastern Band of Cherokee Indians, 
-and the Cherokee Nation.
+We thank the Kituwah Preservation and Education Program (KPEP), the Eastern Band of Cherokee Indians, the Cherokee Nation, 
+and David Montgomery. 

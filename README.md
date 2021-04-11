@@ -19,4 +19,4 @@ This repository contains the data/code/demo for the following paper:
 
 #### [Code](./code)
 
-#### Demo (coming soon)
+#### [Demo](https://github.com/ZhangShiyue/ChrEnTranslate)
