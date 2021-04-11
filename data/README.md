@@ -19,10 +19,11 @@
      |__ Old_Testament.xlsx 
      |__ Old_Testament.chr
      |__ Old_Testament.en
-|__ demo --> the data we used for ChrEnTranslate Demo that inlcudes all data in parallel/ and cherokee_old_testament/ plus two-round expert feedback and Cherokee English Dictionary (CED) data; we mix them and resplit.
-     |__ train.true.en train.true.chr  --> training set
-     |__ dev.true.en dev.true.chr   --> development set 
-     |__ raw_dev.en raw_dev.chr   --> untokenized development set data used for evaluation 
+|__ demo/ --> the data we used for ChrEnTranslate Demo  
+    |__ 04112021/ inlcudes all data in parallel/ and cherokee_old_testament/ plus two-round expert feedback and Cherokee English Dictionary (CED) data
+        |__ train.true.en train.true.chr  --> training set
+        |__ dev.true.en dev.true.chr   --> development set 
+        |__ raw_dev.en raw_dev.chr   --> untokenized development set data used for evaluation 
 ```
 
 Note that here is our [ChrEnTranslate Demo](https://github.com/ZhangShiyue/ChrEnTranslate). 
