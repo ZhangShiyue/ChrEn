@@ -1,0 +1,1 @@
+This data is from https://github.com/CherokeeLanguage/CherokeeEnglishCorpus/tree/master/corpus.aligned/chr_en
